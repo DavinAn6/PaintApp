@@ -6,7 +6,7 @@
 ## 설명
 MSPaint(이하 그림판)은 마이크로소프트사에서 제공하는 단순한 기능의 컴퓨터 그래픽 프로그램입니다. PaintApp은 JavaFX를 이용하여 그림판의 일부 기능을 구현한 프로그램입니다. 이용자는 캔버스 위에 원하는 색상으로 그림을 그릴수도, 일부분을 지울수도, 캔버스 전체를 지울수도 있습니다.
 
-<img alt="PaintApp" src="C:\Users\Davin\MAIN\Study\개발공부\PaintApp\src\main\resources\PaintApp.png"/>
+<img alt="PaintApp" src="https://github.com/DavinAn6/PaintApp/blob/main/src/main/resources/PaintApp.png"/>
 
 ## 기능 및 레이아웃
 - 기본 캔버스의 크기는 650 x 450 픽셀입니다.
