@@ -6,7 +6,7 @@
 ## Description
 PaintApp is an application that is similar to MS Paint. The user can draw on a canvas with different colors, erase the canvas, or clear the canvas entirely.
 
-<img alt="PaintApp" src="C:\Users\Davin\MAIN\Study\개발공부\PaintApp\src\main\resources\PaintApp.png"/>
+<img alt="PaintApp" src="https://github.com/DavinAn6/PaintApp/blob/main/src/main/resources/PaintApp.png"/>
 
 ## Functionality
 - The canvas size is 650 x 450 pixels
